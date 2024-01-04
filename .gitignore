@@ -1,0 +1,10 @@
+__pycache__/
+venv/
+.venv/
+data/
+model/
+submission.csv
+.ipynb_checkpoints
+*.pyc
+recreate_history.sh
+*.bak
