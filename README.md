@@ -5,3 +5,9 @@ This project builds a model to predict survival on the Titanic.
 
 ## EDA Phase 1
 - Visualized survival, Pclass, and Sex.
+
+
+## Model Comparison
+- Logistic Regression
+- SVM
+- Random Forest (Best Performer)
