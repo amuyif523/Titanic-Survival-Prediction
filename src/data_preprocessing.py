@@ -5,4 +5,5 @@ def preprocess_data(df, is_train=True):
         """Cleans, imputes, and engineers features."""
     # Age Imputation
         # Feature Engineering
+        # Final column drop
     return df_processed
