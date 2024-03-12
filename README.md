@@ -132,3 +132,7 @@ Requirement already satisfied: arrow>=0.15.0 in c:\usersmanuelppdata\local\pro
 Requirement already satisfied: types-python-dateutil>=2.8.10 in c:\usersmanuelppdata\local\programs\python\python311\lib\site-packages (from arrow>=0.15.0->isoduration->jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.11.0->jupyter-server<3,>=2.4.0->jupyterlab->jupyter->-r requirements.txt (line 5)) (2.9.0.20250822)
 2. 
 3. 
+
+
+### Acknowledgements
+- Data from Kaggle.
